@@ -4,8 +4,8 @@ The two files list the student responses to two writing quizzes along with the r
 
 Each reponse is represented as two consective rows in the given file. The format is as follows:
 
-[row k] ID (rating) 
-[row k+1] Response
+[row k] ID (RATING) \n
+[row k+1] Response  \n
 
 Notes:
 1. The ID may not be unique. 
